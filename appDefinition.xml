@@ -1,0 +1,14 @@
+<appDefinition>
+   <id>jogetgit</id>
+   <version></version>
+   <name>Joget Git</name>
+   <packageDefinitionList/>
+   <formDefinitionList/>
+   <userviewDefinitionList/>
+   <datalistDefinitionList/>
+   <builderDefinitionList/>
+   <pluginDefaultPropertiesList/>
+   <environmentVariableList/>
+   <messageList/>
+   <resourceList/>
+</appDefinition>
