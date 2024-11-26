@@ -25,6 +25,39 @@
                     }
                 },
                 {
+                    "className": "org.joget.apps.form.lib.Radio",
+                    "properties": {
+                        "fullWidth": "",
+                        "controlField": "",
+                        "readonly": "",
+                        "optionsBinder": {
+                            "className": "",
+                            "properties": {}
+                        },
+                        "options": [
+                            {
+                                "label": "active",
+                                "value": "active",
+                                "grouping": ""
+                            },
+                            {
+                                "label": "deactive",
+                                "value": "deactive",
+                                "grouping": ""
+                            }
+                        ],
+                        "validator": {
+                            "className": "",
+                            "properties": {}
+                        },
+                        "workflowVariable": "",
+                        "label": "Radio",
+                        "id": "field3",
+                        "value": "",
+                        "readonlyLabel": ""
+                    }
+                },
+                {
                     "className": "org.joget.apps.form.lib.IdGeneratorField",
                     "properties": {
                         "hidden": "",
